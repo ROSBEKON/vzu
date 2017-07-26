@@ -1,0 +1,14 @@
+Year 01 Month 01 Day 01 Time 03:44:53 
+
+
+Project Name       CURRENT:  UNI-PRO Project_0,     PREVIOUS:  UNI-PRO Project_0
+Vendor  Name       CURRENT:  EVCO,     PREVIOUS: EVCO
+Hardware Family    CURRENT:  1,     PREVIOUS: 1
+Hardware Code      CURRENT:  EPK3BXP,     PREVIOUS: EPK3BXP
+Project Code       CURRENT:  ,     PREVIOUS: 
+Project library  # CURRENT:  001.001.000.000
+Project library  # PREVIOUS: 001.001.000.000
+Project Customer # CURRENT:  003.013.000.000
+Project Customer # PREVIOUS: 003.013.000.000
+
+
